@@ -14,14 +14,14 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 
 
 ### 🛠 Skills
-![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![react native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![firebase](https://img.shields.io/badge/firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black)
+![firebase](https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Contact
 ![ask me anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
