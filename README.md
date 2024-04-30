@@ -3,7 +3,7 @@
   <img width=800 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only" alt="Logo">
 </div>
 
-<h1 align="center">Hello!</h1>
+<h1 align="center">👋🏻 Hello</h1>
 <p align="center">Hi, I'm Michele, a student passionate about computer science. 
 Here you will find all my open-source projects, and your feedback will be greatly appreciated!</p>
 
