@@ -32,7 +32,7 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
   </picture>
   <picture>
     <msource media="(prefers-color-scheme: dark)"/>
-    <img src="https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=20232A" alt="Firebase">
+    <img src="https://img.shields.io/badge/firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   </picture>
 </div>
 
