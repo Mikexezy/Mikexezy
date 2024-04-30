@@ -3,7 +3,7 @@
 ![Logo Dark](https://link-del-tuo-logo-dark.png)
 
 
-# Hello! ![follow](https://img.shields.io/github/followers/{Mikexezy}.svg?style=social&label=Follow&maxAge=2592000)
+# Hello!
 Hi, I'm Michele, a student passionate about computer science. 
 Here you will find all my open-source projects, and your feedback will be greatly appreciated!
 ### 🚀 About Me
