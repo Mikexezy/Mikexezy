@@ -11,9 +11,11 @@ For my degree path, I'm still a bit undecided between the computer science facul
 Here, as I've already mentioned, you'll find all my open-source projects that I've developed over the years and continue to work on. 
 Primarily, they are web apps in which I've found a great passion and enjoyment in creating.</p>
 
-### 🛠 Skills
+<h2 align="center">🛠 Skills</h2>
+<div align="center">
 ![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white)
+</div>
 
 ![javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) 
