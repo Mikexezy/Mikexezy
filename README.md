@@ -56,5 +56,8 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Mikexezy?style=for-the-badge&labelColor=20232A&color=20232A" alt="follower"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/Mikexezy?style=for-the-badge&labelColor=20232A&color=20232A" alt="follower"/>
+    <img src="https://img.shields.io/github/followers/Mikexezy?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF" alt="follower"/>
+  </picture>
 </div>
