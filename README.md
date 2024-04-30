@@ -1,6 +1,6 @@
 
-![Logo Light](https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only)
-![Logo Dark](https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only)
+![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only)
+![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only)
 
 
 # Hello!
@@ -14,7 +14,8 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 
 
 ### 🛠 Skills
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white#gh-dark-mode-only)
+![python](https://img.shields.io/badge/Python-FFCB2B?style=for-the-badge&logo=python&logoColor=black#gh-dark-mode-only)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white#gh-light-mode-only)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
