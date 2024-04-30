@@ -31,7 +31,7 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
     <img src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   </picture>
   <picture>
-    <msource media="(prefers-color-scheme: dark)"/>
+    <msource media="(prefers-color-scheme: light)"/>
     <img src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   </picture>
 </div>
