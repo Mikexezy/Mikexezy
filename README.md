@@ -1,8 +1,7 @@
 ![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only)
 ![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only)
 
-
-# Hello!
+<h1 align="center">Hello!</h1>
 Hi, I'm Michele, a student passionate about computer science. 
 Here you will find all my open-source projects, and your feedback will be greatly appreciated!
 
