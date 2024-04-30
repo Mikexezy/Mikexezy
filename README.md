@@ -1,9 +1,3 @@
-## 🚀 About me
-
-Ciao, mi chiamo Michele Pernaci e sono uno studente di informatica, sviluppatore in React di web app. Il design di ogni app è realizzato esclusivamente da me stesso.
-
----
-
 ### 🔍 Scopri di più su di me
 
 Ciao a tutti! Sono Michele Pernaci, uno studente appassionato di informatica con una fervida creatività. La mia passione per lo sviluppo di web app in React si fonde con il mio amore per il design, che mi porta a creare esperienze utente uniche e coinvolgenti. Ogni aspetto delle mie applicazioni, dall'architettura alla grafica, è frutto del mio impegno e della mia dedizione.
