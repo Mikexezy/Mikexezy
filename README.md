@@ -1,6 +1,6 @@
 
 ![Logo Light](https://link-del-tuo-logo-light.png#gh-light-mode-only)
-![Logo Dark](https://link-del-tuo-logo-dark.png#gh-dark-mode-only)
+![Logo Dark](https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only)
 
 
 # Hello!
