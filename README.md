@@ -9,12 +9,12 @@ Here you will find all my open-source projects, and your feedback will be greatl
 <div>
   <h2>🚀 About Me</h2>
 </div>
-### 🚀 About Me
-My name is Michele Pernaci, and since I was a child, I've always tried to get as close as possible to the world of computer science. Today, I'm in my fourth year, ready to face the next year and graduate. 
+<div>
+  My name is Michele Pernaci, and since I was a child, I've always tried to get as close as possible to the world of computer science. Today, I'm in my fourth year, ready to face the next year and graduate. 
 For my degree path, I'm still a bit undecided between the computer science faculty and mechatronics.
 Here, as I've already mentioned, you'll find all my open-source projects that I've developed over the years and continue to work on. 
 Primarily, they are web apps in which I've found a great passion and enjoyment in creating.
-
+</div>
 
 ### 🛠 Skills
 ![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white)
