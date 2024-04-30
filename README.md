@@ -6,7 +6,7 @@
 Hi, I'm Michele, a student passionate about computer science. 
 Here you will find all my open-source projects, and your feedback will be greatly appreciated!
 
-###🚀 About Me
+### 🚀 About Me
 My name is Michele Pernaci, and since I was a child, I've always tried to get as close as possible to the world of computer science. Today, I'm in my fourth year, ready to face the next year and graduate. 
 For my degree path, I'm still a bit undecided between the computer science faculty and mechatronics.
 Here, as I've already mentioned, you'll find all my open-source projects that I've developed over the years and continue to work on. 
