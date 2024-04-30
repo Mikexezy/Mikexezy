@@ -15,9 +15,18 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 
 <h2 align="center">🛠 Skills</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark") srcset="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+    <img src="https://img.shields.io/badge/React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+  </picture>
 </div>
 
 <div align="center">
