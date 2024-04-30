@@ -27,7 +27,8 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white"/>
