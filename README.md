@@ -26,6 +26,9 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 <div align="center">
   <img src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </div>
-### Contact
-[![telegram](https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michelepernacigithub)
-[![instagram](https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michelepernacii/)
+
+<h2 align="center">Contact</h2>
+<div align="center">
+  <a href="https://t.me/michelepernacigithub"><img src="https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.instagram.com/michelepernacii/"><img src="https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
