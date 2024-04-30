@@ -1,6 +1,6 @@
 <div align="center">
-  <img width=1000 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only" alt="Logo">
-  <img width=1000 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only" alt="Logo">
+  <img width=800 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only" alt="Logo">
+  <img width=800 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only" alt="Logo">
 </div>
 
 <h1 align="center">Hello!</h1>
