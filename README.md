@@ -1,6 +1,6 @@
 
-![Logo Light](https://link-del-tuo-logo-light.png)
-![Logo Dark](https://link-del-tuo-logo-dark.png)
+![Logo Light](https://link-del-tuo-logo-light.png#gh-light-mode-only)
+![Logo Dark](https://link-del-tuo-logo-dark.png#gh-dark-mode-only)
 
 
 # Hello!
