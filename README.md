@@ -1,5 +1,3 @@
-<center>
-  
 ![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only)
 ![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only)
 
@@ -7,6 +5,10 @@
 # Hello!
 Hi, I'm Michele, a student passionate about computer science. 
 Here you will find all my open-source projects, and your feedback will be greatly appreciated!
+
+<div>
+  <h2>🚀 About Me</h2>
+</div>
 ### 🚀 About Me
 My name is Michele Pernaci, and since I was a child, I've always tried to get as close as possible to the world of computer science. Today, I'm in my fourth year, ready to face the next year and graduate. 
 For my degree path, I'm still a bit undecided between the computer science faculty and mechatronics.
@@ -27,5 +29,3 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 ### Contact
 [![telegram](https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michelepernacigithub)
 [![instagram](https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michelepernacii/)
-
-</center>
