@@ -26,7 +26,7 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white#gh-dark-mode-only" alt="Firebase">
+  <img src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </div>
 
 <h2 align="center">📱 Contact</h2>
