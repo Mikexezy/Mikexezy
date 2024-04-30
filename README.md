@@ -26,5 +26,5 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 ### Contact
 ![ask me anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-[![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michelepernacigithub)
-[![instagram](https://img.shields.io/badge/instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michelepernacii/)
+[![telegram](https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michelepernacigithub)
+[![instagram](https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michelepernacii/)
