@@ -21,25 +21,38 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Python">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java">
+  </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
     <img src="https://img.shields.io/badge/firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   </picture>
 </div>
 
 <h2 align="center">📱 Contact</h2>
 <div align="center">
-  <a href="https://t.me/michelepernacigithub"><img src="https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.instagram.com/michelepernacii/"><img src="https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://t.me/michelepernacigithub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+      <img src="https://img.shields.io/badge/telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram">
+    </picture>
+  </a>
+  <a href="https://www.instagram.com/michelepernacii/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      <img src="https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">
+    </picture>
+  </a>
 </div>
 
 <div align="center">
