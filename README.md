@@ -1,4 +1,5 @@
-
+<center>
+  
 ![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only)
 ![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only)
 
@@ -26,3 +27,5 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 ### Contact
 [![telegram](https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michelepernacigithub)
 [![instagram](https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michelepernacii/)
+
+</center>
