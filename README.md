@@ -13,7 +13,7 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 
 <h2 align="center">🛠 Skills</h2>
 <div align="center">
-![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 ![java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white)
 </div>
 
