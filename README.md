@@ -1,5 +1,5 @@
 ![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only | width=100)
-![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only)
+![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only | width=100)
 
 <h1 align="center">Hello!</h1>
 <p align="center">Hi, I'm Michele, a student passionate about computer science. 
