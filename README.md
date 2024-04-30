@@ -13,16 +13,19 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 
 <h2 align="center">🛠 Skills</h2>
 <div align="center">
-<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-![java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </div>
 
-![javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) 
-![react native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+</div>
 
-![firebase](https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+</div>
 ### Contact
 [![telegram](https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michelepernacigithub)
 [![instagram](https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michelepernacii/)
