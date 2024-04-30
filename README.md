@@ -2,14 +2,14 @@
 ![Logo](https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only)
 
 <h1 align="center">Hello!</h1>
-Hi, I'm Michele, a student passionate about computer science. 
-Here you will find all my open-source projects, and your feedback will be greatly appreciated!
+<p align="center">Hi, I'm Michele, a student passionate about computer science. 
+Here you will find all my open-source projects, and your feedback will be greatly appreciated!</p>
 
 <h2 align="center">🚀 About Me</h2>
-My name is Michele Pernaci, and since I was a child, I've always tried to get as close as possible to the world of computer science. Today, I'm in my fourth year, ready to face the next year and graduate. 
+<p align="center">My name is Michele Pernaci, and since I was a child, I've always tried to get as close as possible to the world of computer science. Today, I'm in my fourth year, ready to face the next year and graduate. 
 For my degree path, I'm still a bit undecided between the computer science faculty and mechatronics.
 Here, as I've already mentioned, you'll find all my open-source projects that I've developed over the years and continue to work on. 
-Primarily, they are web apps in which I've found a great passion and enjoyment in creating.
+Primarily, they are web apps in which I've found a great passion and enjoyment in creating.</p>
 
 ### 🛠 Skills
 ![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white)
