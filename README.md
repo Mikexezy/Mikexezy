@@ -1,7 +1,7 @@
 <style>
 @font-face {
     font-family: 'Outfit';
-    src: url('Outfit-ExtraBold.ttf') format('ttf');
+    src: url('https://github.com/Mikexezy/Mikexezy/blob/main/Outfit-ExtraBold.ttf') format('ttf');
 }
 </style>
 
