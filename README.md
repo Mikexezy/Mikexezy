@@ -14,10 +14,8 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 
 
 ### 🛠 Skills
-![python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black#gh-dark-mode-only)
-![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white#gh-light-mode-only)
-![java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black#gh-dark-mode-only)
-![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white#gh-dark-light-only)
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
