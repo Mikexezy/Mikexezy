@@ -1,5 +1,7 @@
-<img width=500 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only" alt="Logo">
-<img width=500 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only" alt="Logo">
+<div align="center">
+  <img width=1000 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only" alt="Logo">
+  <img width=1000 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only" alt="Logo">
+</div>
 
 <h1 align="center">Hello!</h1>
 <p align="center">Hi, I'm Michele, a student passionate about computer science. 
