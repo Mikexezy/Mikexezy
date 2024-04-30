@@ -33,5 +33,5 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 <div align="center">
   <a href="https://t.me/michelepernacigithub"><img src="https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.instagram.com/michelepernacii/"><img src="https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <img src="https://img.shields.io/github/followers/Mikexezy" alt="follower"/>
+  <img src="https://img.shields.io/github/followers/Mikexezy?style=for-the-badge&labelColor=20232A&color=20232A" alt="follower"/>
 </div>
