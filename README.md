@@ -25,3 +25,18 @@ Primarily, they are web apps in which I've found a great passion and enjoyment i
 ### Contact
 [![telegram](https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michelepernacigithub)
 [![instagram](https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michelepernacii/)
+
+```html
+<h2>Example of code</h2>
+
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
