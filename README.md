@@ -17,9 +17,9 @@
 </div>
 
 <p align="center">
-  Hi, I'm <b>Michele</b> — a computer-science student who fell in love with building things for the web.<br>
-  I'm in my fourth year, heading toward graduation and still happily torn between <b>computer science</b> and <b>mechatronics</b>.<br>
-  Most of what I make are web (and mobile) apps — and it's all open source. Feedback is always welcome.
+  Hi, I'm <b>Michele</b> — a first-year <b>Computer Engineering</b> student at the <b>University of Pisa</b> (UniPi).<br>
+  I build web and mobile apps, and I care about clean design and interfaces as much as the code behind them.<br>
+  I'm especially drawn to products that teach — like <b>Educa</b>. It's all open source, and feedback is always welcome.
 </p>
 
 <br>
@@ -74,13 +74,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mikexezy&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=CBF945&text_color=BCBEB3&icon_color=CBF945&bg_color=16180D&border_color=24271A&border_radius=16">
-    <img alt="Michele's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mikexezy&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=16180D&text_color=24271A&icon_color=97C31E&bg_color=F7F6F0&border_color=E9E9E2&border_radius=16" height="165">
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikexezy&layout=compact&hide_border=false&title_color=CBF945&text_color=BCBEB3&bg_color=16180D&border_color=24271A&border_radius=16">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikexezy&layout=compact&hide_border=false&title_color=16180D&text_color=24271A&bg_color=F7F6F0&border_color=E9E9E2&border_radius=16" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+    <img alt="GitHub stats — 11 repositories, 41 commits in the last 12 months, on GitHub since 2023; top languages Python, Java, HTML, C++, JavaScript, CSS" src="assets/stats-light.svg" width="840">
   </picture>
 </div>
 
@@ -109,10 +104,4 @@
       <img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-16180D?style=for-the-badge&logo=instagram&logoColor=CBF945">
     </picture>
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <sub><b>Michele Pernaci</b> · built with a custom <i>Educa</i> design system — warm ink, electric lime.</sub>
 </div>
