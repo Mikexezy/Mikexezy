@@ -1,8 +1,8 @@
 <!-- ══════════════════════  HERO  ══════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img alt="Michele Pernaci — Student & Web Developer" src="assets/header-light.svg" width="860">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/header-dark.svg">
+    <img alt="Michele Pernaci — Computer Engineering student and developer" src="brand/header-light.svg" width="860">
   </picture>
 </div>
 
@@ -11,8 +11,8 @@
 <!-- ══════════════════════  ABOUT  ══════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-about-dark.svg">
-    <img alt="About me" src="assets/sec-about-light.svg" height="30">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/sec-about-dark.svg">
+    <img alt="About me" src="brand/sec-about-light.svg" height="30">
   </picture>
 </div>
 
@@ -27,8 +27,8 @@
 <!-- ══════════════════════  STACK  ══════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-stack-dark.svg">
-    <img alt="Stack & tools" src="assets/sec-stack-light.svg" height="30">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/sec-stack-dark.svg">
+    <img alt="Stack & tools" src="brand/sec-stack-light.svg" height="30">
   </picture>
 </div>
 
@@ -36,8 +36,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-    <img alt="React · React Native · JavaScript · Python · Java · Firebase" src="assets/stack-light.svg" width="740">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/stack-dark.svg">
+    <img alt="React · React Native · JavaScript · Python · Java · Supabase" src="brand/stack-light.svg" width="740">
   </picture>
 </div>
 
@@ -46,8 +46,8 @@
 <!-- ══════════════════════  FEATURED PROJECT  ══════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-project-dark.svg">
-    <img alt="Featured project" src="assets/sec-project-light.svg" height="30">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/sec-project-dark.svg">
+    <img alt="Featured project" src="brand/sec-project-light.svg" height="30">
   </picture>
 </div>
 
@@ -55,8 +55,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/educa-card-dark.svg">
-    <img alt="Educa — learn personal finance without the jargon. Built with React Native, Firebase and a custom design system." src="assets/educa-card-light.svg" width="840">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/educa-card-dark.svg">
+    <img alt="Educa — learn personal finance without the jargon. Built with React Native, Supabase and a custom design system." src="brand/educa-card-light.svg" width="840">
   </picture>
 </div>
 
@@ -65,8 +65,8 @@
 <!-- ══════════════════════  STATS  ══════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-stats-dark.svg">
-    <img alt="By the numbers" src="assets/sec-stats-light.svg" height="30">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/sec-stats-dark.svg">
+    <img alt="By the numbers" src="brand/sec-stats-light.svg" height="30">
   </picture>
 </div>
 
@@ -74,8 +74,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-    <img alt="GitHub stats — 11 repositories, 41 commits in the last 12 months, on GitHub since 2023; top languages Python, Java, HTML, C++, JavaScript, CSS" src="assets/stats-light.svg" width="840">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/stats-dark.svg">
+    <img alt="GitHub stats — 11 repositories, 41 commits in the last 12 months, on GitHub since 2023; top languages Python, Java, HTML, C++, JavaScript, CSS" src="brand/stats-light.svg" width="840">
   </picture>
 </div>
 
@@ -84,8 +84,8 @@
 <!-- ══════════════════════  CONTACT  ══════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-contact-dark.svg">
-    <img alt="Get in touch" src="assets/sec-contact-light.svg" height="30">
+    <source media="(prefers-color-scheme: dark)" srcset="brand/sec-contact-dark.svg">
+    <img alt="Get in touch" src="brand/sec-contact-light.svg" height="30">
   </picture>
 </div>
 
