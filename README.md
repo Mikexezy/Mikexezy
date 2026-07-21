@@ -1,72 +1,118 @@
-<div align="center">
-  <img width=800 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeLight.png#gh-light-mode-only" alt="Logo">
-  <img width=800 src="https://github.com/Mikexezy/Mikexezy/blob/main/placeDark.png#gh-dark-mode-only" alt="Logo">
-</div>
-
-<h1 align="center">👋🏻 Hello</h1>
-<p align="center">Hi, I'm Michele, a student passionate about computer science. 
-Here you will find all my open-source projects, and your feedback will be greatly appreciated!</p>
-
-<h2 align="center">🚀 About Me</h2>
-<p align="center">My name is Michele Pernaci, and since I was a child, I've always tried to get as close as possible to the world of computer science. Today, I'm in my fourth year, ready to face the next year and graduate. 
-For my degree path, I'm still a bit undecided between the computer science faculty and mechatronics.
-Here, as I've already mentioned, you'll find all my open-source projects that I've developed over the years and continue to work on. 
-Primarily, they are web apps in which I've found a great passion and enjoyment in creating.</p>
-
-<h2 align="center">🛠 Skills</h2>
+<!-- ══════════════════════  HERO  ══════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark") srcset="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
-    <img src="https://img.shields.io/badge/React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Michele Pernaci — Student & Web Developer" src="assets/header-light.svg" width="860">
   </picture>
 </div>
 
+<br>
+
+<!-- ══════════════════════  ABOUT  ══════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Python">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-about-dark.svg">
+    <img alt="About me" src="assets/sec-about-light.svg" height="30">
   </picture>
 </div>
 
+<p align="center">
+  Hi, I'm <b>Michele</b> — a computer-science student who fell in love with building things for the web.<br>
+  I'm in my fourth year, heading toward graduation and still happily torn between <b>computer science</b> and <b>mechatronics</b>.<br>
+  Most of what I make are web (and mobile) apps — and it's all open source. Feedback is always welcome.
+</p>
+
+<br>
+
+<!-- ══════════════════════  STACK  ══════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-stack-dark.svg">
+    <img alt="Stack & tools" src="assets/sec-stack-light.svg" height="30">
   </picture>
 </div>
 
-<h2 align="center">📱 Contact</h2>
+<br>
+
 <div align="center">
-  <a href="https://t.me/michelepernacigithub">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <img alt="React · React Native · JavaScript · Python · Java · Firebase" src="assets/stack-light.svg" width="740">
+  </picture>
+</div>
+
+<br>
+
+<!-- ══════════════════════  FEATURED PROJECT  ══════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-project-dark.svg">
+    <img alt="Featured project" src="assets/sec-project-light.svg" height="30">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/educa-card-dark.svg">
+    <img alt="Educa — learn personal finance without the jargon. Built with React Native, Firebase and a custom design system." src="assets/educa-card-light.svg" width="840">
+  </picture>
+</div>
+
+<br>
+
+<!-- ══════════════════════  STATS  ══════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-stats-dark.svg">
+    <img alt="By the numbers" src="assets/sec-stats-light.svg" height="30">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mikexezy&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=CBF945&text_color=BCBEB3&icon_color=CBF945&bg_color=16180D&border_color=24271A&border_radius=16">
+    <img alt="Michele's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mikexezy&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=16180D&text_color=24271A&icon_color=97C31E&bg_color=F7F6F0&border_color=E9E9E2&border_radius=16" height="165">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikexezy&layout=compact&hide_border=false&title_color=CBF945&text_color=BCBEB3&bg_color=16180D&border_color=24271A&border_radius=16">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikexezy&layout=compact&hide_border=false&title_color=16180D&text_color=24271A&bg_color=F7F6F0&border_color=E9E9E2&border_radius=16" height="165">
+  </picture>
+</div>
+
+<br>
+
+<!-- ══════════════════════  CONTACT  ══════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sec-contact-dark.svg">
+    <img alt="Get in touch" src="assets/sec-contact-light.svg" height="30">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Mikexezy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-      <img src="https://img.shields.io/badge/telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/Mikexezy?style=for-the-badge&logo=github&logoColor=16180D&label=FOLLOW&labelColor=F2F2EC&color=CBF945">
+      <img alt="Follow on GitHub" src="https://img.shields.io/github/followers/Mikexezy?style=for-the-badge&logo=github&logoColor=CBF945&label=FOLLOW&labelColor=16180D&color=16180D">
     </picture>
   </a>
   <a href="https://www.instagram.com/michelepernacii/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-      <img src="https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/INSTAGRAM-F2F2EC?style=for-the-badge&logo=instagram&logoColor=16180D">
+      <img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-16180D?style=for-the-badge&logo=instagram&logoColor=CBF945">
     </picture>
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/Mikexezy?style=for-the-badge&labelColor=20232A&color=20232A" alt="follower"/>
-    <img src="https://img.shields.io/github/followers/Mikexezy?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF" alt="follower"/>
-  </picture>
+  <sub><b>Michele Pernaci</b> · built with a custom <i>Educa</i> design system — warm ink, electric lime.</sub>
 </div>
